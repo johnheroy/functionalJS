@@ -1,0 +1,4 @@
+slides:    https://slides.com/johnheroy/intro-to-func
+exercises: http://bit.ly/func-exercises
+solutions: https://github.com/johnheroy/functionalJS
+resources: https://github.com/johnheroy/js-fundamentals-extra-resources
